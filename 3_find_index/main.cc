@@ -1,6 +1,10 @@
 //
 // Created by zhangyc on 18-11-14.
 //
+
+//时间: O(N)
+//空间: O(N)
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
