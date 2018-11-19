@@ -95,5 +95,6 @@ int main(void){
 
     std::cout << FindMaxSubString(string1,string2) << std::endl;
     std::cout << FindMaxSubStringPlus(string1,string2) << std::endl;
+
     return 0;
 }
